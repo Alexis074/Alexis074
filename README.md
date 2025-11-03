@@ -43,9 +43,18 @@ I'm a third-year Computer Engineering student at the Catholic University of San 
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
 </span>
 
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+<h2 align="center" style="margin: 5px 10px;">GitHub Stats</h2>
 
-[![](https://github-readme-stats.vercel.app/api?username=alexis074&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Alexis074)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=alexis074&theme=material-palenight)](https://github.com/Alexis074)
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <!-- Stats públicos + privados -->
+  <a href="https://github.com/Alexis074">
+    <img src="https://github-readme-stats.vercel.app/api?username=alexis074&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&token=TU_TOKEN" alt="GitHub Stats" />
+  </a>
+
+  <!-- Racha de commits -->
+  <a href="https://github.com/Alexis074">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexis074&theme=material-palenight" alt="GitHub Streak" />
+  </a>
 </div>
+
 
